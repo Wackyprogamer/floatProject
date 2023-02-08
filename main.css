@@ -1,0 +1,125 @@
+a, h3, div, body, html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: whitesmoke;
+    font-size: 20px;
+}
+h3{
+    padding-left: 15px;
+    padding-top: 20px;
+}
+#navBar {
+    background-color: #EEBC1D;
+    padding: 15px 3px 40px 15px;
+    width: 100%;
+    color: whitesmoke;
+    font-style: bold;
+    font-size: 20px;
+    
+    
+}
+
+#nameCompany {
+    float: left; 
+}
+
+#nav {
+    float: right;
+    padding-right: 10px;
+}
+
+
+#nav a{
+    text-decoration: none;
+    padding: 15px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+#servicesDash {
+    
+    border: 2px solid #EEBC1D;
+    height: 600px;
+    width: 300px;
+    border-radius: 4px;
+    float: left;
+    background-color: white;
+    margin: 10px 10px 0 100px;
+
+}
+
+#servicesDash p {
+    
+   text-align: left;
+   padding: 10px 30px;
+   font-size: 16px;
+}
+
+#servicesBudget {
+    
+    border: 2px solid #EEBC1D;
+    height: 600px;
+    width: 300px;
+    border-radius: 4px;
+    float: left;
+    background-color: white;
+    margin: 10px 10px 0 0;
+}
+
+#servicesBudget p{
+    text-align: left;
+    padding: 10px 30px;
+    font-size: 16px;
+}
+
+#servicesCheckbooks {
+   
+    border: 2px solid #EEBC1D;
+    height: 600px;
+    width: 300px;
+    border-radius: 4px;
+    float: left;
+    background-color: white;
+    margin: 10px 10px 0 0;
+}
+
+#servicesCheckbooks p {
+    text-align: left;
+   padding: 10px 30px;
+   font-size: 16px;
+}
+
+#servicesMoney {
+
+    border: 2px solid #EEBC1D;
+    height: 600px;
+    width: 300px;
+    border-radius: 4px;
+    float: left;
+    background-color: white;
+    margin: 10px 10px 0 0;
+}
+
+#servicesMoney p {
+    text-align: left;
+   padding: 10px 30px;
+   font-size: 16px;
+}
+#centerContent {
+    margin: 80px 50px 80px 180px;
+}
+
+input[type=submit] {
+    clear: both;
+    border-radius: 4px;
+    border: transparent;
+    color: whitesmoke;
+    background-color: #EEBC1D;
+    text-align: center;
+    margin: 0 25px;
+    padding: 10px 100px;
+}
